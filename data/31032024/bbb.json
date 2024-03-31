@@ -1,0 +1,52 @@
+{
+  data: [
+    {
+        id: '1',
+        bgCard: {
+            id: '5',
+            alt: 'purple gamer temple (templo azul gamer)'
+        },
+        button: {
+            text: "Play now",
+            url: "/themes/bbb/1",
+            bgVar: "300"
+        }
+    },
+    {
+        id: '2',
+        bgCard: {
+            id: '3',
+            alt: 'gamer magic forest (floresta mágica gamer)'
+        },
+        button: {
+            text: "Go jogar",
+            url: "/themes/bbb/2",
+            bgVar: "200"
+        }
+    },
+    {
+        id: '3',
+        bgCard: {
+            id: '1',
+            alt: 'bright blue moon (Lua azul brilhante)'
+        },
+        button: {
+            text: "Vamos nessa",
+            url: "/themes/bbb/3",
+            bgVar: "100"
+        }
+    },
+    {
+        id: '4',
+        bgCard: {
+            id: '2',
+            alt: 'child dancing on the cliff (criança no precipicio)'
+        },
+        button: {
+            text: "Let's game",
+            url: "/themes/bbb/4",
+            bgVar: "400"
+      }
+    },
+  ]
+}
